@@ -1,6 +1,11 @@
 body{
     background-color: bisque;
     font-family: 'Comic Sans MS';
-    color:chocolate;
+    color:rgb(178, 90, 28);
     text-align: center;
+}
+.bobaimg{
+     position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
