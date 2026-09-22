@@ -23,9 +23,16 @@ body{
     border-radius: 7px;
     color:rgb(217, 178, 130);
     font-size:large;
+    transition: 175ms ease;
+    border: none;
+}
+#workshop:hover{
+box-shadow: 0 0 5px black;
+transform: translateY(-5px);
 }
 .buttonrow{
     display: flex;
     gap:15px;
-    align-items: center;
+margin-left: 300px;
+margin-top: 50px;
 }
